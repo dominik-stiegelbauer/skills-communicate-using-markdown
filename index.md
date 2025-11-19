@@ -3,3 +3,9 @@
 
 ### Picture
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+### Example for java script
+
+``` javascript
+var myVar = "Hello, world!";
+```
