@@ -1,2 +1,5 @@
 # First Header
 ## Second Header
+
+### Picture
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
