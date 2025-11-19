@@ -9,3 +9,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+### Example of a tasklist
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
